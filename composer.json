@@ -1,0 +1,6 @@
+{
+	"name": "teamtreehouse-php-testing",
+	"require": {
+		"phpunit/phpunit": "^4.6"
+	}
+}
